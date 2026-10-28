@@ -15,10 +15,15 @@ breadth, and the triangle's base and height.
 
 ## Sample run
 
-Using radius `5`, length `4`, breadth `6`, base `10`, and height `8`, the
-calculated output is:
+Example interaction (the values after each prompt are entered by the user):
 
 ```text
+Enter radius: 5
+Enter length: 4
+Enter breadth: 6
+Enter base: 10
+Enter height: 8
+
 --- Area Results ---
 Area of Circle: 78.5
 Area of Rectangle: 24
